@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\obj\Debug\01_Cafe_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\obj\Debug\01_Cafe_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\bin\Debug\01_Cafe_Console.exe.config
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\bin\Debug\01_Cafe_Console.exe
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\bin\Debug\01_Cafe_Console.pdb
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\bin\Debug\01_Cafe_Repository.dll
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\bin\Debug\01_Cafe_Repository.pdb
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\obj\Debug\01_Cafe_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\obj\Debug\01_Cafe_Console.exe
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\01_Cafe_Console\obj\Debug\01_Cafe_Console.pdb

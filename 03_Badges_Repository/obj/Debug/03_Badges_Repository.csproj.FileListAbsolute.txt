@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Repository\obj\Debug\03_Badges_Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Repository\bin\Debug\03_Badges_Repository.dll
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Repository\bin\Debug\03_Badges_Repository.pdb
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Repository\obj\Debug\03_Badges_Repository.dll
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Repository\obj\Debug\03_Badges_Repository.pdb
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Repository\obj\Debug\03_Badges_Repository.csprojAssemblyReference.cache

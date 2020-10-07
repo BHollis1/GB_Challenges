@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\bin\Debug\03_Badges_Console.exe.config
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\bin\Debug\03_Badges_Console.exe
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\bin\Debug\03_Badges_Console.pdb
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\obj\Debug\03_Badges_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\obj\Debug\03_Badges_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\obj\Debug\03_Badges_Console.exe
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\obj\Debug\03_Badges_Console.pdb
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\bin\Debug\03_Badges_Repository.dll
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\bin\Debug\03_Badges_Repository.pdb
+C:\ElevenFiftyProjects\GB_Final_Challenges\GB_Final_Challenges\03_Badges_Console\obj\Debug\03_Badges_Console.csproj.CopyComplete
